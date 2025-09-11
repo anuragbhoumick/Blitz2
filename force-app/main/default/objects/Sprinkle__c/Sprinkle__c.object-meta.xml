@@ -158,7 +158,7 @@
         <label>Sprinkle Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Sprinkles</pluralLabel>
+    <pluralLabel>SprinklesS</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
